@@ -20,15 +20,13 @@
             <div class="col-md-6">
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
                   <figure class="cc-effect"><img src="images/project-1.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Aplikasi Web PJJ SMAN 2 Bekasi</div>
+                    <figcaption> 
                       <p>Web Development</p>
                     </figcaption>
                   </figure></a></div>
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
                   <figure class="cc-effect"><img src="images/project-2.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Aplikasi Web RAPORT Siswa SMAN 2 Bekasi</div>
+                    <figcaption> 
                       <p>Web Development</p>
                     </figcaption>
                   </figure></a></div>
@@ -36,15 +34,13 @@
             <div class="col-md-6">
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
                   <figure class="cc-effect"><img src="images/project-3.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Food Order Project</div>
+                    <figcaption> 
                       <p>Web Development</p>
                     </figcaption>
                   </figure></a></div>
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
                   <figure class="cc-effect"><img src="images/project-4.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Web Advertising Project</div>
+                    <figcaption> 
                       <p>Web Development</p>
                     </figcaption>
                   </figure></a></div>
@@ -58,18 +54,16 @@
             <div class="col-md-6">
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#graphic-design">
                   <figure class="cc-effect"><img src="images/graphic-design-1.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">E-Raport XD Design</div>
-                      <p>Graphic Design</p>
+                    <figcaption> 
+                      <p>Design App Absensi Raport Mobile</p>
                     </figcaption>
                   </figure></a></div> 
             </div>
             <div class="col-md-6">
               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#graphic-design">
                    <figure class="cc-effect"><img src="images/graphic-design-2.jpg" alt="Image"/>
-                    <figcaption>
-                      <div class="h4">Kirim XD Design</div>
-                      <p>Graphic Design</p>
+                    <figcaption> 
+                      <p>Login Page E-Kirim</p>
                     </figcaption>
                   </figure></a></div> 
             </div>
@@ -80,10 +74,22 @@
         <div class="ml-auto mr-auto">
           <div class="row">
             <div class="col-md-6">
-               
+               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#Photography">
+                  <figure class="cc-effect"><img src="images/photography-1.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Photoshoot</div>
+                      <p>Photography</p>
+                    </figcaption>
+                  </figure></a></div> 
             </div>
             <div class="col-md-6">
-               
+               <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#Photography">
+                  <figure class="cc-effect"><img src="images/photography-3.jpg" alt="Image"/>
+                    <figcaption>
+                      <div class="h4">Photoshoot</div>
+                      <p>Photography</p>
+                    </figcaption>
+                  </figure></a></div>
             </div>
           </div>
         </div>
