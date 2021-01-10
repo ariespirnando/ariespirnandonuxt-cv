@@ -9,7 +9,7 @@
                     <img src="images/ariespirnando.jpg" alt="Image"/>
                 </div>
             <div class="h2 title">Achmad Aries Pirnando</div>
-            <p class="category text-white">IT Enthusiast</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="https://drive.google.com/file/d/1uds8V6Cu6Lh2JYHza3xSx2aNZuvLkB1l/view?usp=sharing" target="_blank" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
+            <p class="category text-white">IT Enthusiast</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="https://drive.google.com/file/d/1c4nqx27itahW7eGiPOyY0NSjn8ma5y-f/view?usp=sharing" target="_blank" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
             </div>
         </div>
         <div class="section">
