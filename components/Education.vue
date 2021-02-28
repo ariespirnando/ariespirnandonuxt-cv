@@ -14,7 +14,7 @@
           <div class="card-body">
             <div class="h5">Magister Teknik Informatika</div>
             <p class="category">Universitas Raharja</p>
-            <p>Essay Title : Implementasi Metode Rule Based & Topsis pada Sistem Seleksi Kinerja Divisi Berdasarkan Corporate Culture <br>GPA : 3.64</p>
+            <p>Essay Title : Implementasi Metode Rule Based & Topsis pada Sistem Seleksi Kinerja Divisi Berdasarkan Corporate Culture</p>
           </div>
         </div>
       </div>
@@ -31,7 +31,7 @@
           <div class="card-body">
             <div class="h5">Teknik Informatika</div>
             <p class="category">STMIK Teknokrat</p>
-            <p>Essay Title : Desain Komputasi Paralel pada Algoritma Lempel Ziv Welch (LZW)<br>GPA : 3.86</p>
+            <p>Essay Title : Desain Komputasi Paralel pada Algoritma Lempel Ziv Welch (LZW)</p>
           </div>
         </div>
       </div>
