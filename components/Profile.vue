@@ -6,7 +6,7 @@
         <div class="container">
             <div class="content-center">
                 <div class="cc-profile-image">
-                    <img src="images/ariespirnando.jpg" alt="Image"/>
+                    <img src="images/230321.jpg" alt="Image"/>
                 </div>
             <div class="h2 title">Achmad Aries Pirnando</div>
             <p class="category text-white">IT Enthusiast</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="https://drive.google.com/file/d/1c4nqx27itahW7eGiPOyY0NSjn8ma5y-f/view?usp=sharing" target="_blank" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
