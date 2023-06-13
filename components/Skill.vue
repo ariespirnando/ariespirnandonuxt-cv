@@ -9,7 +9,7 @@
             <div class="col-md-6"> 
                 <ul type="disc">
                     <li>Programming Languages</li>
-                    <li>Front-End & Back-End Development</li>
+                    <li>Full Stack Engineer</li>
                     <li>Database Administration</li>
                     <li>UML & DFD</li>
                     <li>Microsoft Office</li>
