@@ -23,7 +23,7 @@
                 </div>
                 <div class="row mt-3">
                 <div class="col-sm-4"><strong class="text-uppercase">Phone:</strong></div>
-                <div class="col-sm-8">+62 85289599929</div>
+                <div class="col-sm-8">+62 85289599928</div>
                 </div>
                 <div class="row mt-3">
                 <div class="col-sm-4"><strong class="text-uppercase">Address:</strong></div>
