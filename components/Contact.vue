@@ -53,7 +53,7 @@
                     <p class="mb-0"><strong>Address </strong></p>
                     <p class="pb-2">South Jakarta</p>
                     <p class="mb-0"><strong>Phone</strong></p>
-                    <p class="pb-2">+62 85289599929</p>
+                    <p class="pb-2">+62 85289599928</p>
                     <p class="mb-0"><strong>Email</strong></p>
                     <p>ariespirnando.it@gmail.com</p>
                   </div>
